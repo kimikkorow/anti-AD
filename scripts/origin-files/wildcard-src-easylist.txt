@@ -4,7 +4,6 @@
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
-||ac*.pingguolv.com^
 ||adi*.cnool.net^
 ||ads*-normal-hl.zijieapi.com^
 ||aff*.kolektiva.net^
