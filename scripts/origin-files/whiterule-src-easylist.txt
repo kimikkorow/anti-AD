@@ -193,7 +193,6 @@
 @@||game735.com^$generichide
 @@||games.pch.com^$generichide
 @@||gaus.ee^$generichide
-@@||gaybeeg.info^$generichide
 @@||gboku.com^$generichide
 @@||geekzone.co.nz^$generichide
 @@||gemini.google.com^$generichide
@@ -346,7 +345,6 @@
 @@||restream.io^$generichide
 @@||riverside.fm^$generichide
 @@||rosefile.net^$generichide
-@@||rule34hentai.net^$generichide
 @@||runescape.wiki^$image,~third-party
 @@||s.tgfcer.com^$generichide
 @@||sc2casts.com^$generichide
@@ -413,7 +411,6 @@
 @@||uiadmin.net^$generichide
 @@||up-load.io^$generichide
 @@||upxin.net^$generichide
-@@||urlgalleries.net^$generichide
 @@||uukanshu.com^$generichide
 @@||v2cross.com^$generichide
 @@||v2rayssr.com^$generichide
@@ -445,7 +442,6 @@
 @@||wwwimage-tve.cbsstatic.com^
 @@||x.com^$generichide
 @@||xbeibeix.com^$generichide
-@@||xfreehd.com^$generichide
 @@||xhaccess.com^$script,~third-party
 @@||xhamster.com^$script,~third-party
 @@||xhamster.desi^$script,~third-party
