@@ -301,7 +301,6 @@
 @@||mvcat.com^$generichide
 @@||my101.me^$generichide
 @@||myaccount.google.com^$generichide
-@@||myqqjd.com^$generichide
 @@||namechk.com^$generichide
 @@||nebula.tv^$generichide
 @@||netflav.com^$generichide
@@ -320,6 +319,7 @@
 @@||ondemand.sas.com^$subdocument
 @@||onedrive.live.com^$generichide
 @@||open.spotify.com^$generichide
+@@||open.video^$script,~third-party
 @@||optout.networkadvertising.org^$document
 @@||ozabc.com^$generichide
 @@||p.jwpcdn.com^$script
