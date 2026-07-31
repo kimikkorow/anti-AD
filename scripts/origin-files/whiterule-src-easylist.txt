@@ -331,6 +331,7 @@
 @@||mytvsuper.com^$generichide
 @@||namechk.com^$generichide
 @@||nebula.tv^$generichide
+@@||neoseeker.com^$generichide
 @@||netflav.com^$generichide
 @@||netflix.com^$generichide
 @@||nfl.com^$generichide
